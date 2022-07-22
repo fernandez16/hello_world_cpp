@@ -1,1 +1,2 @@
-hello_world.exe
+debug/hello_world_debug.exe
+release/hello_world_release.exe
